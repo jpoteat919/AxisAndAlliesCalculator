@@ -1,0 +1,12 @@
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\bin\Debug\AxisAndAlliesCalculator.exe.config
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.csprojResolveAssemblyReference.cache
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.frmMain.resources
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.Properties.Resources.resources
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.csproj.GenerateResource.Cache
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\bin\Debug\AxisAndAlliesCalculator.exe
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\bin\Debug\AxisAndAlliesCalculator.pdb
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.exe
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.pdb
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.frmGerm.resources
+c:\users\poteaj01.dennys\documents\visual studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.frmBuy.resources
+C:\Users\poteaj01.DENNYS\Documents\Visual Studio 2015\Projects\AxisAndAlliesCalculator\AxisAndAlliesCalculator\obj\Debug\AxisAndAlliesCalculator.frmSov.resources
